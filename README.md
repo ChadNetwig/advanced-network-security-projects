@@ -338,11 +338,11 @@ This project demonstrates the development of a machine learning–based anomaly 
 
 **Accuracy SA**
 
-<img src="assets/screenshots_ml_anomaly_detection_proj4/Scenario-SA-Model%20Train%20%26%20Test%20Accuracy.png" alt="Accuracy SA" width="700"/>
+<img src="assets/screenshots_ml_anomaly_detection_proj4/Scenario-SA-Model%20Train%20%26%20Test%20Accuracy.png" alt="Accuracy SA" width="500"/>
 
 **Loss SA**
 
-<img src="assets/screenshots_ml_anomaly_detection_proj4/Scenario-SA-Model%20Train%20%26%20Test%20Loss.png" alt="Loss SA" width="700"/>
+<img src="assets/screenshots_ml_anomaly_detection_proj4/Scenario-SA-Model%20Train%20%26%20Test%20Loss.png" alt="Loss SA" width="500"/>
 
 ---
 
@@ -350,7 +350,7 @@ This project demonstrates the development of a machine learning–based anomaly 
 
 **Confusion Matrix SB**
 
-<img src="assets/screenshots_ml_anomaly_detection_proj4/sb-cm.png" alt="Confusion Matrix SB" width="700"/>
+<img src="assets/screenshots_ml_anomaly_detection_proj4/sb-cm.png" alt="Confusion Matrix SB" width="300"/>
 
 - **Calculated Accuracy:** ~85.34%
 
@@ -358,11 +358,11 @@ This project demonstrates the development of a machine learning–based anomaly 
 
 **Accuracy SB**
 
-<img src="assets/screenshots_ml_anomaly_detection_proj4/Scenario-SB-Model%20Train%20%26%20Test%20Accuracy.png" alt="Accuracy SB" width="700"/>
+<img src="assets/screenshots_ml_anomaly_detection_proj4/Scenario-SB-Model%20Train%20%26%20Test%20Accuracy.png" alt="Accuracy SB" width="500"/>
 
 **Loss SB**
 
-<img src="assets/screenshots_ml_anomaly_detection_proj4/Scenario-SB-Model%20Train%20%26%20Test%20Loss.png" alt="Loss SB" width="700"/>
+<img src="assets/screenshots_ml_anomaly_detection_proj4/Scenario-SB-Model%20Train%20%26%20Test%20Loss.png" alt="Loss SB" width="500"/>
 
 ---
 
