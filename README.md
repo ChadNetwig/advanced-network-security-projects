@@ -234,18 +234,23 @@ This project demonstrates a simulated TCP SYN flood denial-of-service (DoS) atta
 ### Screenshots
 
 **Containernet Topology**
+
 <img src="assets/screenshots_sdn_dos_mitigation_proj3/containernet-topology.png" alt="Containernet Topology" width="700"/>
 
 **POX Controller – Using Switch Application**
+
 <img src="assets/screenshots_sdn_dos_mitigation_proj3/POX-Controller-Using-Switch-Application-proj3.jpg" alt="POX Controller Switch View" width="700"/>
 
 **Evaluation – DoS Attack and Mitigation (TCP SYN Flood)**
+
 <img src="assets/screenshots_sdn_dos_mitigation_proj3/eval3.png" alt="Evaluation 3 SYN Flood" width="700"/>
 
 **Evaluation – IP Spoofing Blocked**
+
 <img src="assets/screenshots_sdn_dos_mitigation_proj3/eval4.png" alt="Evaluation 4 IP Spoofing" width="700"/>
 
 **Evaluation – MAC Spoofing Blocked**
+
 <img src="assets/screenshots_sdn_dos_mitigation_proj3/eval5.png" alt="Evaluation 5 MAC Spoofing" width="700"/>
 
 ---
