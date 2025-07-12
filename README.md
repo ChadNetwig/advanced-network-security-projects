@@ -253,7 +253,7 @@ This project demonstrates a simulated TCP SYN flood denial-of-service (DoS) atta
 
 **Evaluation – MAC Spoofing Blocked**
 
-<img src="assets/screenshots_sdn_dos_attack_proj3/Screenshot%20from%202024-06-23%2007-17-47-eval4.png" alt="Evaluation 5 MAC Spoofing" width="700"/>
+<img src="assets/screenshots_sdn_dos_attack_proj3/Screenshot%20from%202024-06-23%2006-59-59-eval4.png" alt="Evaluation 5 MAC Spoofing" width="700"/>
 
 ---
 
