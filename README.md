@@ -39,18 +39,23 @@ This project demonstrates configuring a stateless packet filter firewall using `
 ### Screenshots
 
 **Client Default Gateway**
+
 <img src="assets/screenshot_final-packet_filter_proj1/client-default%20gw.png" alt="Client default gateway" width="600"/>
 
 **Client No Web Access**
+
 <img src="assets/screenshot_final-packet_filter_proj1/client-no%20web%20access%20(2).png" alt="Client no web access" width="600"/>
 
 **Client Ping and Telnet Evaluation**
+
 <img src="assets/screenshot_final-packet_filter_proj1/client-ping-telnet-eval.png" alt="Client ping telnet" width="600"/>
 
 **Nmap TCP Scan**
+
 <img src="assets/screenshot_final-packet_filter_proj1/nmap%20tcp.png" alt="Nmap TCP scan" width="600"/>
 
 **Server Iptables Dump**
+
 <img src="assets/screenshot_final-packet_filter_proj1/server-iptables%20dump.png" alt="Server iptables dump" width="600"/>
 
 ---
