@@ -243,15 +243,15 @@ This project demonstrates a simulated TCP SYN flood denial-of-service (DoS) atta
 
 **Evaluation – DoS Attack and Mitigation (TCP SYN Flood)**
 
-<img src="assets/screenshots_sdn_dos_mitigation_proj3/eval3.png" alt="Evaluation 3 SYN Flood" width="700"/>
+<img src="assets/screenshots_sdn_dos_mitigation_proj3/Screenshot%20from%202024-06-22%2021-47-07-eval3.png" alt="Evaluation 3 SYN Flood" width="700"/>
 
 **Evaluation – IP Spoofing Blocked**
 
-<img src="assets/screenshots_sdn_dos_mitigation_proj3/eval4.png" alt="Evaluation 4 IP Spoofing" width="700"/>
+<img src="assets/screenshots_sdn_dos_mitigation_proj3/Screenshot%20from%202024-06-23%2007-02-37-eval4.png" alt="Evaluation 4 IP Spoofing" width="700"/>
 
 **Evaluation – MAC Spoofing Blocked**
 
-<img src="assets/screenshots_sdn_dos_mitigation_proj3/eval5.png" alt="Evaluation 5 MAC Spoofing" width="700"/>
+<img src="assets/screenshots_sdn_dos_mitigation_proj3/Screenshot%20from%202024-06-23%2007-17-47-eval4.png" alt="Evaluation 5 MAC Spoofing" width="700"/>
 
 ---
 
