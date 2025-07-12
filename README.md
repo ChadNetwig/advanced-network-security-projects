@@ -237,23 +237,23 @@ This project demonstrates a simulated TCP SYN flood denial-of-service (DoS) atta
 
 **Containernet Topology**
 
-<img src="assets/screenshots_sdn_dos_attack_proj3/containernet-topology.png" alt="Containernet Topology" width="700"/>
+<img src="assets/screenshots_sdn_dos_attack_proj3/containernet-topology.png" alt="Containernet Topology" width="600"/>
 
 **POX Controller – Using Switch Application**
 
-<img src="assets/screenshots_sdn_dos_attack_proj3/POX-Controller-Using-Switch-Application-proj3.jpg" alt="POX Controller Switch View" width="700"/>
+<img src="assets/screenshots_sdn_dos_attack_proj3/POX-Controller-Using-Switch-Application-proj3.jpg" alt="POX Controller Switch View" width="500"/>
 
 **Evaluation – DoS Attack and Mitigation (TCP SYN Flood)**
 
-<img src="assets/screenshots_sdn_dos_attack_proj3/Screenshot%20from%202024-06-22%2022-47-07-eval3.png" alt="Evaluation 3 SYN Flood" width="700"/>
+<img src="assets/screenshots_sdn_dos_attack_proj3/Screenshot%20from%202024-06-22%2022-47-07-eval3.png" alt="Evaluation 3 SYN Flood" width="600"/>
 
 **Evaluation – IP Spoofing Blocked**
 
-<img src="assets/screenshots_sdn_dos_attack_proj3/Screenshot%20from%202024-06-23%2007-02-37-eval4.png" alt="Evaluation 4 IP Spoofing" width="700"/>
+<img src="assets/screenshots_sdn_dos_attack_proj3/Screenshot%20from%202024-06-23%2007-02-37-eval4.png" alt="Evaluation 4 IP Spoofing" width="600"/>
 
 **Evaluation – MAC Spoofing Blocked**
 
-<img src="assets/screenshots_sdn_dos_attack_proj3/Screenshot%20from%202024-06-23%2006-59-59-eval4.png" alt="Evaluation 5 MAC Spoofing" width="700"/>
+<img src="assets/screenshots_sdn_dos_attack_proj3/Screenshot%20from%202024-06-23%2006-59-59-eval4.png" alt="Evaluation 5 MAC Spoofing" width="600"/>
 
 ---
 
