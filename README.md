@@ -330,7 +330,7 @@ This project demonstrates the development of a machine learning–based anomaly 
 
 **Confusion Matrix SA**
 
-<img src="assets/screenshots_ml_anomaly_detection_proj4/sa-cm.png" alt="Confusion Matrix SA" width="700"/>
+<img src="assets/screenshots_ml_anomaly_detection_proj4/sa-cm.png" alt="Confusion Matrix SA" width="300"/>
 
 - **Calculated Accuracy:** ~71.25%
 
