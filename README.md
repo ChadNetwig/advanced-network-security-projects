@@ -327,41 +327,62 @@ This project demonstrates the development of a machine learning–based anomaly 
 ### Screenshots
 
 #### Scenario SA Results
-![Confusion Matrix SA](assets/sa-cm.png)
+
+**Confusion Matrix SA**
+
+<img src="assets/screenshots_ml_anomaly_detection_proj4/sa-cm.png" alt="Confusion Matrix SA" width="700"/>
 
 - **Calculated Accuracy:** ~71.25%
 
 **Train/Test Accuracy and Loss:**
 
-![Accuracy SA](assets/Scenario-SA-Model%20Train%20&%20Test%20Accuracy.png)
+**Accuracy SA**
 
-![Loss SA](assets/Scenario-SA-Model%20Train%20&%20Test%20Loss.png)
+<img src="assets/screenshots_ml_anomaly_detection_proj4/Scenario-SA-Model%20Train%20%26%20Test%20Accuracy.png" alt="Accuracy SA" width="700"/>
+
+**Loss SA**
+
+<img src="assets/screenshots_ml_anomaly_detection_proj4/Scenario-SA-Model%20Train%20%26%20Test%20Loss.png" alt="Loss SA" width="700"/>
 
 ---
 
 #### Scenario SB Results
-![Confusion Matrix SB](assets/sb-cm.png)
+
+**Confusion Matrix SB**
+
+<img src="assets/screenshots_ml_anomaly_detection_proj4/sb-cm.png" alt="Confusion Matrix SB" width="700"/>
 
 - **Calculated Accuracy:** ~85.34%
 
 **Train/Test Accuracy and Loss:**
 
-![Accuracy SB](assets/Scenario-SB-Model%20Train%20&%20Test%20Accuracy.png)
+**Accuracy SB**
 
-![Loss SB](assets/Scenario-SB-Model%20Train%20&%20Test%20Loss.png)
+<img src="assets/screenshots_ml_anomaly_detection_proj4/Scenario-SB-Model%20Train%20%26%20Test%20Accuracy.png" alt="Accuracy SB" width="700"/>
+
+**Loss SB**
+
+<img src="assets/screenshots_ml_anomaly_detection_proj4/Scenario-SB-Model%20Train%20%26%20Test%20Loss.png" alt="Loss SB" width="700"/>
 
 ---
 
 #### Scenario SC Results
-![Confusion Matrix SC](assets/sc-cm.png)
+
+**Confusion Matrix SC**
+
+<img src="assets/screenshots_ml_anomaly_detection_proj4/sc-cm.png" alt="Confusion Matrix SC" width="700"/>
 
 - **Calculated Accuracy:** ~85.05%
 
 **Train/Test Accuracy and Loss:**
 
-![Accuracy SC](assets/Scenario-SC-Model%20Train%20&%20Test%20Accuracy.png)
+**Accuracy SC**
 
-![Loss SC](assets/Scenario-SC-Model%20Train%20&%20Test%20Loss.png)
+<img src="assets/screenshots_ml_anomaly_detection_proj4/Scenario-SC-Model%20Train%20%26%20Test%20Accuracy.png" alt="Accuracy SC" width="700"/>
+
+**Loss SC**
+
+<img src="assets/screenshots_ml_anomaly_detection_proj4/Scenario-SC-Model%20Train%20%26%20Test%20Loss.png" alt="Loss SC" width="700"/>
 
 ---
 
