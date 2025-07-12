@@ -131,31 +131,31 @@ The setup uses static IP and MAC assignments and configures both Layer 2 (MAC-le
 
 **Containernet Topology**
 
-<img src="assets/screenshots_sdn_stateless_firewall_proj2/containernet-topology.png" alt="ContainerNet Topology" width="700"/>
+<img src="assets/screenshots_sdn_stateless_firewall_proj2/containernet-topology.png" alt="ContainerNet Topology" width="600"/>
 
 **Firewall Rules Example**
 
-<img src="assets/screenshots_sdn_stateless_firewall_proj2/firewall rules.png" alt="Firewall Rules" width="700"/>
+<img src="assets/screenshots_sdn_stateless_firewall_proj2/firewall rules.png" alt="Firewall Rules" width="600"/>
 
 **OVS Rule Tables**
 
-<img src="assets/screenshots_sdn_stateless_firewall_proj2/OVS rule tables.png" alt="OVS Rule Tables" width="700"/>
+<img src="assets/screenshots_sdn_stateless_firewall_proj2/OVS rule tables.png" alt="OVS Rule Tables" width="600"/>
 
 **Evaluation – Blocking ICMP (Eval3)**
 
-<img src="assets/screenshots_sdn_stateless_firewall_proj2/eval3.png" alt="Eval3 ICMP Blocking" width="700"/>
+<img src="assets/screenshots_sdn_stateless_firewall_proj2/eval3.png" alt="Eval3 ICMP Blocking" width="600"/>
 
 **Evaluation – Blocking HTTP (Eval5)**
 
-<img src="assets/screenshots_sdn_stateless_firewall_proj2/eval5-1.png" alt="Eval5 HTTP Blocking" width="700"/>
+<img src="assets/screenshots_sdn_stateless_firewall_proj2/eval5-1.png" alt="Eval5 HTTP Blocking" width="600"/>
 
 **Evaluation – Blocking TCP (Eval7)**
 
-<img src="assets/screenshots_sdn_stateless_firewall_proj2/eval7-1.png" alt="Eval7 TCP Blocking" width="700"/>
+<img src="assets/screenshots_sdn_stateless_firewall_proj2/eval7-1.png" alt="Eval7 TCP Blocking" width="600"/>
 
 **Evaluation – Blocking UDP (Eval8)**
 
-<img src="assets/screenshots_sdn_stateless_firewall_proj2/eval8-1.png" alt="Eval8 UDP Blocking" width="700"/>
+<img src="assets/screenshots_sdn_stateless_firewall_proj2/eval8-1.png" alt="Eval8 UDP Blocking" width="600"/>
 
 ---
 
@@ -241,7 +241,7 @@ This project demonstrates a simulated TCP SYN flood denial-of-service (DoS) atta
 
 **POX Controller – Using Switch Application**
 
-<img src="assets/screenshots_sdn_dos_attack_proj3/POX-Controller-Using-Switch-Application-proj3.jpg" alt="POX Controller Switch View" width="500"/>
+<img src="assets/screenshots_sdn_dos_attack_proj3/POX-Controller-Using-Switch-Application-proj3.jpg" alt="POX Controller Switch View" width="400"/>
 
 **Evaluation – DoS Attack and Mitigation (TCP SYN Flood)**
 
