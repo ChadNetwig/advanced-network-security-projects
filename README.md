@@ -10,6 +10,9 @@ This repository contains four projects demonstrating advanced network security t
 
 Each section includes an overview, key features, instructions to build and run, screenshots, and notes.
 
+**Demonstration Video**
+[Watch on YouTube](https://youtu.be/ufA0IDbo85U)
+
 ---
 
 ## Project 1 – Packet Filter Firewall
@@ -36,19 +39,19 @@ This project demonstrates configuring a stateless packet filter firewall using `
 ### Screenshots
 
 **Client Default Gateway**
-<img src="assets/screenshot_final-packet_filter_proj1/client-default gw.png" alt="Client default gateway" width="600"/>
+<img src="assets/screenshot_final-packet_filter_proj1/client-default%20gw.png" alt="Client default gateway" width="600"/>
 
 **Client No Web Access**
-<img src="assets/screenshot_final-packet_filter_proj1/client-no web access (2).png" alt="Client no web access" width="600"/>
+<img src="assets/screenshot_final-packet_filter_proj1/client-no%20web%20access%20(2).png" alt="Client no web access" width="600"/>
 
 **Client Ping and Telnet Evaluation**
 <img src="assets/screenshot_final-packet_filter_proj1/client-ping-telnet-eval.png" alt="Client ping telnet" width="600"/>
 
 **Nmap TCP Scan**
-<img src="assets/screenshot_final-packet_filter_proj1/nmap tcp.png" alt="Nmap TCP scan" width="600"/>
+<img src="assets/screenshot_final-packet_filter_proj1/nmap%20tcp.png" alt="Nmap TCP scan" width="600"/>
 
 **Server Iptables Dump**
-<img src="assets/screenshot_final-packet_filter_proj1/server-iptables dump.png" alt="Server iptables dump" width="600"/>
+<img src="assets/screenshot_final-packet_filter_proj1/server-iptables%20dump.png" alt="Server iptables dump" width="600"/>
 
 ---
 
@@ -140,9 +143,6 @@ The setup uses static IP and MAC assignments and configures both Layer 2 (MAC-le
 
 **Evaluation – Blocking UDP (Eval8)**
 <img src="assets/screenshots_sdn_stateless_firewall_proj2/eval8-1.png" alt="Eval8 UDP Blocking" width="700"/>
-
-**Demonstration Video**
-[Watch on YouTube](https://youtu.be/ufA0IDbo85U)
 
 ---
 
