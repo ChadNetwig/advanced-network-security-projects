@@ -370,7 +370,7 @@ This project demonstrates the development of a machine learning–based anomaly 
 
 **Confusion Matrix SC**
 
-<img src="assets/screenshots_ml_anomaly_detection_proj4/sc-cm.png" alt="Confusion Matrix SC" width="700"/>
+<img src="assets/screenshots_ml_anomaly_detection_proj4/sc-cm.png" alt="Confusion Matrix SC" width="300"/>
 
 - **Calculated Accuracy:** ~85.05%
 
@@ -378,11 +378,11 @@ This project demonstrates the development of a machine learning–based anomaly 
 
 **Accuracy SC**
 
-<img src="assets/screenshots_ml_anomaly_detection_proj4/Scenario-SC-Model%20Train%20%26%20Test%20Accuracy.png" alt="Accuracy SC" width="700"/>
+<img src="assets/screenshots_ml_anomaly_detection_proj4/Scenario-SC-Model%20Train%20%26%20Test%20Accuracy.png" alt="Accuracy SC" width="500"/>
 
 **Loss SC**
 
-<img src="assets/screenshots_ml_anomaly_detection_proj4/Scenario-SC-Model%20Train%20%26%20Test%20Loss.png" alt="Loss SC" width="700"/>
+<img src="assets/screenshots_ml_anomaly_detection_proj4/Scenario-SC-Model%20Train%20%26%20Test%20Loss.png" alt="Loss SC" width="500"/>
 
 ---
 
