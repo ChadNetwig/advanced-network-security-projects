@@ -100,6 +100,7 @@ This project demonstrates configuring a stateless packet filter firewall using `
    - Test ping, telnet, nmap scans per project report.
 
 ---
+---
 
 ## Project 2 – SDN-Based Stateless Firewall
 
@@ -208,6 +209,7 @@ The setup uses static IP and MAC assignments and configures both Layer 2 (MAC-le
    - Use `ping`, `telnet`, `nmap`, etc., to verify firewall enforcement.
 
 ---
+---
 
 ## Project 3 – SDN-Based DoS Attack and Mitigation
 
@@ -295,7 +297,7 @@ This project demonstrates a simulated TCP SYN flood denial-of-service (DoS) atta
 5. **Run Evaluations**
    - Use `hping3`, `nping`, and `ovs-ofctl dump-flows s1` to validate mitigation.
 
-
+---
 ---
 
 ## Project 4 – ML-Based Anomaly Detection Solutions
