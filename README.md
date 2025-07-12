@@ -143,19 +143,19 @@ The setup uses static IP and MAC assignments and configures both Layer 2 (MAC-le
 
 **Evaluation – Blocking ICMP (Eval3)**
 
-<img src="assets/screenshots_sdn_stateless_firewall_proj2/eval3.png" alt="Eval3 ICMP Blocking" width="600"/>
+<img src="assets/screenshots_sdn_stateless_firewall_proj2/eval3.png" alt="Eval3 ICMP Blocking" width="300"/>
 
 **Evaluation – Blocking HTTP (Eval5)**
 
-<img src="assets/screenshots_sdn_stateless_firewall_proj2/eval5-1.png" alt="Eval5 HTTP Blocking" width="600"/>
+<img src="assets/screenshots_sdn_stateless_firewall_proj2/eval5-1.png" alt="Eval5 HTTP Blocking" width="300"/>
 
 **Evaluation – Blocking TCP (Eval7)**
 
-<img src="assets/screenshots_sdn_stateless_firewall_proj2/eval7-1.png" alt="Eval7 TCP Blocking" width="600"/>
+<img src="assets/screenshots_sdn_stateless_firewall_proj2/eval7-1.png" alt="Eval7 TCP Blocking" width="300"/>
 
 **Evaluation – Blocking UDP (Eval8)**
 
-<img src="assets/screenshots_sdn_stateless_firewall_proj2/eval8-1.png" alt="Eval8 UDP Blocking" width="600"/>
+<img src="assets/screenshots_sdn_stateless_firewall_proj2/eval8-1.png" alt="Eval8 UDP Blocking" width="300"/>
 
 ---
 
