@@ -129,24 +129,31 @@ The setup uses static IP and MAC assignments and configures both Layer 2 (MAC-le
 ### Screenshots
 
 **Containernet Topology**
+
 <img src="assets/screenshots_sdn_stateless_firewall_proj2/containernet-topology.png" alt="ContainerNet Topology" width="700"/>
 
 **Firewall Rules Example**
+
 <img src="assets/screenshots_sdn_stateless_firewall_proj2/firewall rules.png" alt="Firewall Rules" width="700"/>
 
 **OVS Rule Tables**
+
 <img src="assets/screenshots_sdn_stateless_firewall_proj2/OVS rule tables.png" alt="OVS Rule Tables" width="700"/>
 
 **Evaluation – Blocking ICMP (Eval3)**
+
 <img src="assets/screenshots_sdn_stateless_firewall_proj2/eval3.png" alt="Eval3 ICMP Blocking" width="700"/>
 
 **Evaluation – Blocking HTTP (Eval5)**
+
 <img src="assets/screenshots_sdn_stateless_firewall_proj2/eval5-1.png" alt="Eval5 HTTP Blocking" width="700"/>
 
 **Evaluation – Blocking TCP (Eval7)**
+
 <img src="assets/screenshots_sdn_stateless_firewall_proj2/eval7-1.png" alt="Eval7 TCP Blocking" width="700"/>
 
 **Evaluation – Blocking UDP (Eval8)**
+
 <img src="assets/screenshots_sdn_stateless_firewall_proj2/eval8-1.png" alt="Eval8 UDP Blocking" width="700"/>
 
 ---
