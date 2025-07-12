@@ -52,7 +52,7 @@ This project demonstrates configuring a stateless packet filter firewall using `
 
 **Nmap TCP Scan**
 
-<img src="assets/screenshot_final-packet_filter_proj1/nmap%20tcp.png" alt="Nmap TCP scan" width="600"/>
+<img src="assets/screenshot_final-packet_filter_proj1/npmap%20tcp.png" alt="Nmap TCP scan" width="600"/>
 
 **Server Iptables Dump**
 
