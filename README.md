@@ -245,7 +245,7 @@ This project demonstrates a simulated TCP SYN flood denial-of-service (DoS) atta
 
 **Evaluation – DoS Attack and Mitigation (TCP SYN Flood)**
 
-<img src="assets/screenshots_sdn_dos_attack_proj3/Screenshot%20from%202024-06-22%2021-47-07-eval3.png" alt="Evaluation 3 SYN Flood" width="700"/>
+<img src="assets/screenshots_sdn_dos_attack_proj3/Screenshot%20from%202024-06-22%2022-47-07-eval3.png" alt="Evaluation 3 SYN Flood" width="700"/>
 
 **Evaluation – IP Spoofing Blocked**
 
